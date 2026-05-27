@@ -1,0 +1,33 @@
+AI SDR Outbound System - Demo Report
+============================================
+Human-reviewed workflow assistant demo
+
+1. Acme Services
+   Role: Founder
+   Source: website_form
+   Status: new
+   Score: 100/100
+   Priority: high
+   Next step: Prepare a short human-reviewed response and move to active review.
+
+2. Bright Clinic
+   Role: Operations Manager
+   Source: referral
+   Status: review
+   Score: 85/100
+   Priority: high
+   Next step: Prepare a short human-reviewed response and move to active review.
+
+3. Nova Agency
+   Role: Owner
+   Source: portfolio_request
+   Status: new
+   Score: 100/100
+   Priority: high
+   Next step: Prepare a short human-reviewed response and move to active review.
+
+Summary
+--------------------------------------------
+Total records reviewed: 3
+High priority records: 3
+Policy: suggested actions require human review before use.
